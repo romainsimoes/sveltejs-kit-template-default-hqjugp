@@ -9,6 +9,7 @@ const products = [
 		price: 12,
 		quantity: 2
 	},
+
 	{
 		name: 'Chaussure trail',
 		price: 12,
